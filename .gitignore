@@ -1,0 +1,5 @@
+practicas/res/
+practicas/.DS_Store
+**/.ipynb_checkpoints/
+*.zip
+*.caffemodel
